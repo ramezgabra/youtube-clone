@@ -14,7 +14,7 @@ A YouTube Clone built with React.js, Material UI, and Rapid API.
 
 ## Demo
 
-You can check out a live demo of the YouTube Clone [here](insert_demo_link).
+You can check out a live demo of the YouTube Clone [here](https://youtube-clone-ramez.netlify.app/).
 
 ## Features
 
