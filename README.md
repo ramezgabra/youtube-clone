@@ -1,7 +1,7 @@
 # YouTube Clone
 
 A YouTube Clone built with React.js, Material UI, and Rapid API.
-[![YouTube Clone Screenshot](https://github.com/ramezgabra/youtube-clone/assets/78731378/a2783f69-af2d-4f50-987c-bdfc6214987a)]
+![YouTube Clone Screenshot](https://github.com/ramezgabra/youtube-clone/assets/78731378/a2783f69-af2d-4f50-987c-bdfc6214987a)
 
 ## Table of Contents
 - [Demo](#demo)
