@@ -8,8 +8,6 @@ A YouTube Clone built with React.js, Material UI, and Rapid API.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -68,21 +66,3 @@ Follow these steps to set up the project locally:
 3. Click on a video thumbnail to play the video within the application.
 
 4. Enjoy browsing and watching YouTube videos using the YouTube Clone!
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`.
-
-3. Make your changes and commit them: `git commit -m "Add your feature or fix description"`.
-
-4. Push your changes to your fork: `git push origin feature/your-feature-name`.
-
-5. Create a pull request on the original repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
